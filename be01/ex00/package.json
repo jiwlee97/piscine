@@ -3,7 +3,6 @@
     "sequelize-cli": "^6.2.0"
   },
   "dependencies": {
-    "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
   }
 }
